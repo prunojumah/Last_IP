@@ -2,7 +2,7 @@
 Submission of Week 4's independent project
 # {ELECTRIC CAR-SHARING SERVICE COMPANY}
 
-#### {Data analysis to come up with a strategy to be employed by MTN in its bid to upgrade its technology infrastructure for its mobile users in Ivory Coast.}, {16 July 2020}
+#### {Data analysis to come up with a strategy to determine the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018.}, {16 July 2020}
 #### By **{Pruno Jumah}**
 ## Description
 { This is an analysis that determines the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018.  }
